@@ -2,7 +2,7 @@
 
 This MATLAB package includes implementations of the graph learning algorithms presented in [1].
 It requires the GLL package, which implements the algorithms from [2].
-The wgplot toolbox is included for plotting figures.
+The wgplot toolbox is included to generate figures.
 Some of the rotated Brodatz textures are also included (http://sipi.usc.edu/database/database.php?volume=rotate).
 
 [1] Pavez, Eduardo, Hilmi E. Egilmez, and Antonio Ortega. "Learning graphs with monotone topology properties and multiple connected components." IEEE Transactions on Signal Processing 66.9 (2018): 2399-2413.
